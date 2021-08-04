@@ -1,1 +1,72 @@
-# Mukesh-Kumar-Shah
+{
+	"basics": {
+		"name": "Mukesh Kumar Shah",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88315941?s=400&u=c946842476bc39e70a9ee4e3dfda9e682219d4ed&v=4",
+		"email": "2020kucp1134@iiitkota.ac.in",
+		"phone": "+917610117826",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Khutar Waidhan",
+			"pinCode": "486886",
+			"city": "Singrauli",
+			"countryCode": " India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Mkkk9977",
+				"url": "https://github.com/Mkkk9977"
+			},
+			{
+				"network": "twitter",
+				"username": "MkkkShah",
+				"url": "https://mobile.twitter.com/MkkkShah"
+			},
+			{
+				"network": "linkedin",
+				"username": "Mukesh Shah",
+				"url": "https://www.linkedin.com/mwlite/in/mukesh-shah-8b48b4214"
+			},
+			{
+				"network": "Instagram",
+				"username": "mkkk9977",
+				"url": "https://www.instagram.com/mkkk9977/?hl=en"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+		"language": ["English", "Hindi"]
+	}],
+	"interests": [{
+			"name": "Hobby",
+			"keywords": [
+				"Singing", "Acting"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Cricket"
+			]
+		}
+	],
+	"references": []
+}
